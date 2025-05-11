@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sangacho.github.io/sitemap.xml
