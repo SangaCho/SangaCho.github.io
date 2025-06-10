@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Cho, Sang A",
-    "label": "Vision Scientist",
+    "label": "Visiual Neuroscientist",
     "image": "",
     "email": "sangacho@bu.edu",
     "phone": "(857) 123-4567",
@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "name": "Sam Ling's lab, Psychological Brain and Sciences, Boston University",
-      "position": "Graduate Researche",
+      "name": "Sam Ling's lab, Department of Psychological Brain and Sciences, Boston University",
+      "position": "Graduate Researcher",
       "url": "https://sites.bu.edu/vision/",
       "startDate": "2023-09-01",
       "endDate": "Current",
@@ -39,7 +39,7 @@
       "location": "Boston MA, United States",
       "url": "https://www.bu.edu/",
       "area": "Psychological Brain and Sciences",
-      "studyType": "PhD in Brain, Behavior, and Cognition program",
+      "studyType": "PhD program in Brain, Behavior, and Cognition",
       "startDate": "2023-09-01",
       "endDate": "Current"
     },
@@ -47,7 +47,7 @@
       "institution": "Korea University",
       "location": "Seoul, Republic of Korea",
       "url": "https://www.korea.edu/sites/en/index.do",
-      "area": "Cognitive psychology",
+      "area": "Department of Behavioral Cognitive Neuroscience",
       "studyType": "Mater of Science",
       "startDate": "2015-09-01",
       "endDate": "2018-02-28"
@@ -56,7 +56,7 @@
       "institution": "Korea University",
       "location": "Seoul, Republic of Korea",
       "url": "https://www.korea.edu/sites/en/index.do",
-      "area": "Psychology",
+      "area": "Department of Psychology",
       "studyType": "Bachelor of Arts",
       "startDate": "2011-03-01",
       "endDate": "2015-08-31"
@@ -77,21 +77,21 @@
       "publisher": "Attention, Perception, & Psychophysics",
       "releaseDate": "2018-06-30",
       "url": "https://doi.org/10.3758/s13414-018-1549-0",
-      "summary": "This study demonstrates that observers can simultaneously maintain multiple attentional control settings (MACS) at different spatial locations without being confounded by repetition priming. Using a spatial cueing paradigm, the authors found that attentional capture occurred only when the distractor’s color matched the control setting for that specific location, not due to repetition. These results provide strong behavioral evidence for location-specific top-down attentional settings."
+      "summary": "This study demonstrates that observers can simultaneously maintain multiple attentional control settings at different spatial locations without being confounded by repetition priming."
     },
     {
       "name": "Attentional Orienting by Non-informative Cue Is Shaped via Reinforcement Learning",
       "publisher": "Frontiers in Psychology",
       "releaseDate": "2019-12-17",
       "url": "https://doi.org/10.3389/fpsyg.2019.02884",
-      "summary": "This study investigated how attentional orienting induced by non-informative cues can be shaped by reinforcement learning. Participants were more likely to attend to a spatial location previously associated with reward, even when the cue itself held no informative value. The findings support the view that value-based learning mechanisms can modulate attentional priority, even in the absence of explicit task relevance."
+      "summary": "This study investigated how attentional orienting induced by non-informative cues can be shaped by reinforcement learning."
     },
     {
       "name": "Uncertainty modulates value-driven attentional capture",
       "publisher": "Attention, Perception, & Psychophysics",
       "releaseDate": "2021-01-15",
       "url": "https://doi.org/10.3758/s13414-020-02171-3",
-      "summary": "This paper explores how uncertainty influences value-driven attentional capture (VDAC). The authors found that when the reward predictability was low, previously reward-associated distractors captured more attention, indicating a stronger VDAC effect. These findings suggest that uncertainty amplifies the attentional priority given to stimuli with learned value, possibly as an adaptive mechanism for coping with ambiguous environments."
+      "summary": "This paper explores how uncertainty influences value-driven attentional capture."
     }
   ],
   "skills": [
