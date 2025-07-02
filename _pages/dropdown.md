@@ -1,8 +1,10 @@
 ---
 layout: page
-title: submenus
-nav: true
-nav_order: 8
+permalink: /dropdown/
+title: dropdown
+description: ...
+nav: false
+nav_order: ...
 dropdown: true
 children:
   - title: bookshelf
