@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Homepage Launched
+date: 2024-06-10 09:00:00-0400
 inline: true
-related_posts: false
 ---
-
-A simple inline announcement.
+Sanga Cho's personal homepage is now live! Welcome and thank you for visiting. 
