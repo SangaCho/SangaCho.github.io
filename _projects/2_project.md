@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Adaptation and TvC function [Psychophysics; fMRI]
-description: How does visual adaptation alters
-the TvC function and CRF across human early visual cortex?
+description: How does visual adaptation alters the TvC function and CRF across human early visual cortex
 img: assets/img/proj2.jpg
 importance: 2
 category: work
