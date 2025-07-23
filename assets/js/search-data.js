@@ -60,9 +60,9 @@ ninja.data = [{
           description: "Efficiently allocated attentional gain across large visual field",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-coming-soon",
+          title: 'Coming soon',
+          description: "AI",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
