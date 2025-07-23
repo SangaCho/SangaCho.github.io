@@ -50,9 +50,9 @@ ninja.data = [{
           description: "How does exogenous attention modulate the CRF across human early visual cortex?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-adaptation-and-tvc-function-psychophysics-fmri",
-          title: 'Adaptation and TvC function [Psychophysics; fMRI]',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-attentional-allocation-across-large-visual-field",
