@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Attentional allocation across large visual field
+description: Efficiently allocated attentional gain across large visual field
+img: assets/img/proj3.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
