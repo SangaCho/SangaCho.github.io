@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Adaptation and TvC function [Psychophysics; fMRI]
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: How does visual adaptation alters
+the TvC function and CRF across human early visual cortex?
+img: assets/img/proj2.jpg
 importance: 2
 category: work
 giscus_comments: true
