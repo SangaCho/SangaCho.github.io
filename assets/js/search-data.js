@@ -80,16 +80,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-planting",
-          title: 'Planting',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-fine-art",
           title: 'Fine Art',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
