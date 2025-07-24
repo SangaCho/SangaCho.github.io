@@ -2,7 +2,7 @@
 layout: page
 title: Exogenous attention and CRF [fMRI]
 description: How does exogenous attention modulate the CRF across human early visual cortex?
-img: assets/img/proj1.jpg
+img: assets/img/proj1.png
 importance: 1
 category: work
 related_publications: true
