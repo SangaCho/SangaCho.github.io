@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Planting
+title: Fine Art
 description: 
-img: assets/img/proj_fun/plant_1.jpg
+img: assets/img/proj_fun/art_2.jpg
 category: fun
 importance: 8
 --- 
