@@ -18,7 +18,7 @@
       {
         "network": "Instagram",
         "username": "sang.sang.c",
-        "url": "https://twitter.com/sang.sang.c"
+        "url": "https://instagram.com/sang.sang.c"
       }
     ]
   },
@@ -123,12 +123,6 @@
       "name": "Attention",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
       ]
     }
   ],
@@ -136,22 +130,41 @@
     {
       "name": "Professor Sam Ling",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     },
     {
       "name": "Professor Yang Seok Cho",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Exogenous Attention",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Exogenous Attention & Contrast Response",
+      "summary": "Investigating how exogenous attention alters the BOLD contrast response function in the early visual cortex.",
+      "highlights": [
+        "BOLD population contrast response function (CRF)",
+        "Early visual cortex (V1-V3)",
+        "Contrast adaptation protocol",
+        "Spatial cueing task"
+      ],
+      "startDate": "2023-09-01",
+      "endDate": "2025-07-15",
+      "url": "https://doi.org/10.1167/jov.25.9.1"
+    },
+    {
+      "name": "Adaptation & Contrast Discrimination",
+      "summary": "Testing models that link population contrast response functions (CRFs) to behavioral contrast discrimination (TvC) using fMRI adaptation paradigms.",
+      "highlights": [
+        "fMRI contrast adaptation",
+        "Threshold-versus-contrast (TvC) functions",
+        "Neural sensitivity shifts (V1-V3)",
+        "Voxel-wise population CRF analysis",
+        "Optimal pooling mechanisms"
+      ],
+      "startDate": "2023-09-01",
+      "endDate": "Current",
+      "url": ""
     }
   ]
 }
