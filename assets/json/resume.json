@@ -4,7 +4,6 @@
     "label": "Visual Neuroscientist",
     "image": "",
     "email": "sangacho@bu.edu",
-    "phone": "(857) 123-4567",
     "url": "https://sangacho.github.io/",
     "summary": "Paying attention to Attention",
     "location": {
@@ -123,6 +122,11 @@
       "name": "Attention",
       "icon": "fa-solid fa-tag",
       "keywords": [
+        "Visual perception",
+        "Visual attention",
+        "Contrast response functions (CRF)",
+        "Early visual cortex (V1-V3)",
+        "Psychophysics and fMRI"
       ]
     }
   ],
@@ -130,12 +134,12 @@
     {
       "name": "Professor Sam Ling",
       "icon": "fa-solid fa-laptop",
-      "reference": ""
+      "reference": "samling@bu.edu (Boston University)"
     },
     {
       "name": "Professor Yang Seok Cho",
       "icon": "fa-solid fa-thumbtack",
-      "reference": ""
+      "reference": "yscho_psych@korea.ac.kr (Korea University)"
     }
   ],
   "projects": [
@@ -149,7 +153,7 @@
         "Spatial cueing task"
       ],
       "startDate": "2023-09-01",
-      "endDate": "2025-07-15",
+      "endDate": "Current",
       "url": "https://doi.org/10.1167/jov.25.9.1"
     },
     {
