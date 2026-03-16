@@ -47,7 +47,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-exogenous-attention-and-crf-fmri",
           title: 'Exogenous attention and CRF [fMRI]',
-          description: "How does exogenous attention modulate the CRF across human early visual cortex?",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-adaptation-and-tvc-function-psychophysics-fmri",
