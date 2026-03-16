@@ -5,13 +5,9 @@ description:
 img: assets/img/proj2.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 ## Adaptation reveals a gap between contrast discrimination and contrast response
-
-Sanga Cho and Sam Ling  
-Psychological & Brain Sciences, Boston University
 
 Perceptual discrimination is linked to nonlinearities in neural coding, central to Weber-Fechner law. For instance, contrast discrimination is thought to arise from the nonlinearity between stimulus contrast and the neural contrast response function (CRF), with the canonical dipper-like shape of the threshold-versus-contrast (TvC) function attributed to the inverse slope of the CRF. However, this standard model linking brain with behavior has been difficult to evaluate, as nonlinear CRFs have been challenging to measure with fMRI.
 
