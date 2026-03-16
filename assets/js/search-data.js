@@ -52,7 +52,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-adaptation-and-tvc-function-psychophysics-fmri",
           title: 'Adaptation and TvC function [Psychophysics; fMRI]',
-          description: "How does visual adaptation alters the TvC function and CRF across human early visual cortex",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-attentional-allocation-across-large-visual-field",
