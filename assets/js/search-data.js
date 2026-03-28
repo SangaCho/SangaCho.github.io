@@ -55,16 +55,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-attentional-allocation-across-large-visual-field",
-          title: 'Attentional allocation across large visual field',
-          description: "Efficiently allocated attentional gain across large visual field",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-coming-soon",
-          title: 'Coming soon',
-          description: "AI",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-3d-brain",
           title: '3D Brain',
           description: "",
@@ -80,11 +70,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-fine-art",
-          title: 'Fine Art',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
